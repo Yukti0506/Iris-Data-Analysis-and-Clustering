@@ -13,9 +13,9 @@ This repository contains three machine learning assignments based on the Iris da
 ## Files
 
 - `Iris.csv` - Dataset
-- `Assignment1_KMeans.ipynb` - K-Means clustering
-- `Assignment2_PCA.ipynb` - PCA analysis
-- `Iris_Clustering_Project.ipynb` - Complete project
+- `k_meanAssignment1_1.ipynb` - K-Means clustering
+- `PCAAssignment1_2.ipynb` - PCA analysis
+- `Iris_Flower_Clustering_Project.ipynb` - Complete project
 
 ## Technologies Used
 
